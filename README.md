@@ -149,12 +149,6 @@ GatedComplaintTracker/
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of login page, resident dashboard, admin analytics dashboard, and PDF report here_
-
----
-
 ## 🔮 Future Enhancements
 
 - 🤖 AI-based automatic complaint categorization
